@@ -15,7 +15,7 @@ namespace VidlyTutorial
                         "~/Scripts/respond.js",
                         "~/Scripts/dataTables/jquery.dataTables.js",
                         "~/Scripts/dataTables/dataTables.bootstrap.js",
-                        "~/Srcipts/typeahead.bundle.js"));
+                        "~/Scripts/typeahead.bundle.js"));
 
             bundles.Add(new ScriptBundle("~/bundles/jqueryval").Include(
                         "~/Scripts/jquery.validate*"));
